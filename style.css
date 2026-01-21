@@ -13,14 +13,14 @@ header {
 }
 
 section {
+    background-color: white;
     margin: 20px;
     padding: 20px;
-    background: white;
     border-radius: 8px;
 }
 
 ul {
-    list-style-type: none;
+    list-style: none;
     padding: 0;
 }
 
